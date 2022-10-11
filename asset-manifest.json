@@ -1,17 +1,22 @@
 {
   "files": {
     "main.css": "/test-react-node/static/css/main.dca07a71.css",
-    "main.js": "/test-react-node/static/js/main.1c38451c.js",
+    "main.js": "/test-react-node/static/js/main.f4ef3c90.js",
     "static/media/carta.svg": "/test-react-node/static/media/carta.d1a6cc922938748d621eafccedb736d0.svg",
     "static/media/pinkbig.svg": "/test-react-node/static/media/pinkbig.86c80a42f0643c0248d0d928a825c92e.svg",
     "static/media/yellovbig.svg": "/test-react-node/static/media/yellovbig.5df311eddc336314deda5934748c2a11.svg",
+    "static/media/Vectortw.svg": "/test-react-node/static/media/Vectortw.0c6752ff5b56c74d18a120bf91872d17.svg",
     "static/media/yellov.svg": "/test-react-node/static/media/yellov.0d71fe8ceb5c6e4c1ebd71707ae8293b.svg",
     "index.html": "/test-react-node/index.html",
+    "static/media/Vectorp.svg": "/test-react-node/static/media/Vectorp.de56188d3f6ff5f66cb9ec1ea656b8de.svg",
+    "static/media/Groupgreen.svg": "/test-react-node/static/media/Groupgreen.399df32776421d98ed8c24f3f6672b15.svg",
+    "static/media/Vectorlin.svg": "/test-react-node/static/media/Vectorlin.2c528a224ae77b3c2a15817bce59d293.svg",
+    "static/media/Vectorfej.svg": "/test-react-node/static/media/Vectorfej.5b690d5484e1eccb17fe56db92c10c81.svg",
     "main.dca07a71.css.map": "/test-react-node/static/css/main.dca07a71.css.map",
-    "main.1c38451c.js.map": "/test-react-node/static/js/main.1c38451c.js.map"
+    "main.f4ef3c90.js.map": "/test-react-node/static/js/main.f4ef3c90.js.map"
   },
   "entrypoints": [
     "static/css/main.dca07a71.css",
-    "static/js/main.1c38451c.js"
+    "static/js/main.f4ef3c90.js"
   ]
 }
