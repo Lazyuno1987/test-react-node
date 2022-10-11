@@ -1,12 +1,12 @@
 
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react'
 
-const {REACT_APP_URL}=process.env
+// const {REACT_APP_URL}=process.env
 
 
 export const contactApi = createApi({
   reducerPath: 'contactApi',
-  baseQuery: fetchBaseQuery({ baseUrl: `${REACT_APP_URL}/api/feedback` }),
+  baseQuery: fetchBaseQuery({ baseUrl: `https://db-for-feedback.herokuapp.com/api/feedback` }),
   endpoints: (builder) => ({
     // getContacts: builder.query({
     //   query: () => `/contacts`,
