@@ -1,32 +1,61 @@
 import styled from 'styled-components';
 export const Container = styled.div`
 width: 1440px;
-height: 1128px;
 
+position: relative;
+overflow: hidden;
+margin: 0 auto;
+`
+
+export const Yellowfooter = styled.img`
+position: absolute;
+    top: 50px;
+    right: -30px;
+
+`
+export const Greensm = styled.img`
+    position: absolute;
+    top: 0;
+    right: 180px;
+`
+export const Div = styled.div`
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+    margin-left: 350px;
+    margin-top: 80px;`
+
+export const Svgbidpinkfooter = styled.img`
+position: absolute;
+top: -40px;
 `
 export const Svgsmall = styled.img`
 
 width: 88px;
             height: 86px;
             position: absolute;
-            left: 100px;
-            top:95px;`
+               left: 10px;
+    top: 85px;`
 
 export const Svgbidpink = styled.img`
 position: absolute;
-width: 214px;
-height: 208px;
-    top: 555px;
-    right: 420px;
+    top: 535px;
+    right: 370px;
     z-index: 10;
+`
+export const Footer = styled.footer`
+background-color: #FAFAFA;
+border-top: 1px solid #D8D8D8;
+position: relative;
+height: 200px;
 `
 
 export const Svgmiddle = styled.img`
 width: 127px;
 height: 127px;
 position: absolute;
-    top: 500px;
-    left: 850px;
+   top: 500px;
+    left: 780px;
     z-index: 12;
 `
 export const Carta = styled.img`
@@ -35,19 +64,16 @@ export const Carta = styled.img`
     position: absolute;
     z-index: 1;
     border-radius: 50%;
-    right: -190px;
-    top: -100px;
+    right: -200px;
+    top: -50px;
 `
 export const Form = styled.form`
    width: 563px;
    height: 575px;
    margin-left: 147px;
    margin-top:182px;
-   margin-bottom: 374px;
-    /* padding: 40px; */
-    /* border-radius: 10px;
-    border: solid 2px black; */
-    /* margin: 50px auto; */
+   margin-bottom: 90px;
+   
   
  
 `;
