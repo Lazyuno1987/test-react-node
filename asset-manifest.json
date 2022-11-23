@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-react-node/static/css/main.dca07a71.css",
-    "main.js": "/test-react-node/static/js/main.f4ef3c90.js",
+    "main.js": "/test-react-node/static/js/main.d15228c1.js",
     "static/media/carta.svg": "/test-react-node/static/media/carta.d1a6cc922938748d621eafccedb736d0.svg",
     "static/media/pinkbig.svg": "/test-react-node/static/media/pinkbig.86c80a42f0643c0248d0d928a825c92e.svg",
     "static/media/yellovbig.svg": "/test-react-node/static/media/yellovbig.5df311eddc336314deda5934748c2a11.svg",
@@ -13,10 +13,10 @@
     "static/media/Vectorlin.svg": "/test-react-node/static/media/Vectorlin.2c528a224ae77b3c2a15817bce59d293.svg",
     "static/media/Vectorfej.svg": "/test-react-node/static/media/Vectorfej.5b690d5484e1eccb17fe56db92c10c81.svg",
     "main.dca07a71.css.map": "/test-react-node/static/css/main.dca07a71.css.map",
-    "main.f4ef3c90.js.map": "/test-react-node/static/js/main.f4ef3c90.js.map"
+    "main.d15228c1.js.map": "/test-react-node/static/js/main.d15228c1.js.map"
   },
   "entrypoints": [
     "static/css/main.dca07a71.css",
-    "static/js/main.f4ef3c90.js"
+    "static/js/main.d15228c1.js"
   ]
 }
